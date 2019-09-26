@@ -7,6 +7,8 @@ run below 4 commands.
 
 #lifecycle management. Use this link for more details on lifecycle management. https://www.terraform.io/docs/configuration/resources.html#lifecycle-lifecycle-customizations
 use any of below options to understand the lifecycle of a resource
+
+
 lifecycle {
     create_before_destroy = true
   }
