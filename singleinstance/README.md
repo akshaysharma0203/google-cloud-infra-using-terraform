@@ -1,4 +1,4 @@
-create firewall and an instance by implementing variable concepts.
+create firewall and an instance.
 run below 4 commands.
 1.  terraform init
 2.  terraform plan
